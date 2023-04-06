@@ -1,7 +1,9 @@
 # Flock
 A small tool to automatically set current time on a computer.
 
-This tool will set the Windows system's time to the current real-time using NTP service from [time.google.com](https://developers.google.com/time)
+Set the Windows system's time to the current real-time using NTP service from [time.google.com](https://developers.google.com/time) and have the option to set it every time the system booted up.
+
+This will come in handy when the CMOS battery is dead and you're lazy or don't know how to change the battery.
 
 ## Download
 You can download the built version in [releases](https://github.com/Neurs12/Flock/releases), or clone it and build one for yourself!
