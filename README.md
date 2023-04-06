@@ -29,8 +29,8 @@ pyinstaller --noconfirm --onefile --windowed --uac-admin  "flock_silent.py"
   - `windowed` flag.
   - `uac-admin` flag.
   - `add-data` flag:
-    - `sv_ttk` folder
-    - `flock_silent.exe`
+    - `sv_ttk` folder from `%localappdata%\Programs\Python\<your_version>\Lib\site-packages\sv_ttk`.
+    - `flock_silent.exe`.
 
 Example:
 ```
